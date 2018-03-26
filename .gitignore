@@ -4,3 +4,5 @@ github/.project
 github/.settings/org.eclipse.m2e.core.prefs
 github/.settings/org.eclipse.core.resources.prefs
 github/.classpath
+github/target/test-classes/newtours/github/AppTest.class
+github/target/classes/newtours/github/App.class
