@@ -6,3 +6,31 @@ github/.settings/org.eclipse.core.resources.prefs
 github/.classpath
 github/target/test-classes/newtours/github/AppTest.class
 github/target/classes/newtours/github/App.class
+github/test-output/failed.png
+github/test-output/emailable-report.html
+github/test-output/bullet_point.png
+github/test-output/index.html
+github/test-output/Default suite/Default test.xml
+github/test-output/Default suite/Default test.html
+github/test-output/navigator-bullet.png
+github/test-output/collapseall.gif
+github/test-output/old/Default suite/groups.html
+github/test-output/old/Default suite/main.html
+github/test-output/old/Default suite/index.html
+github/test-output/old/Default suite/methods.html
+github/test-output/old/Default suite/Default test.properties
+github/test-output/old/Default suite/methods-not-run.html
+github/test-output/old/Default suite/testng.xml.html
+github/test-output/junitreports/TEST-newtours.github.newtours.xml
+github/test-output/old/Default suite/classes.html
+github/test-output/old/Default suite/toc.html
+github/test-output/skipped.png
+github/test-output/old/Default suite/reporter-output.html
+github/test-output/testng-reports.css
+github/test-output/passed.png
+github/test-output/old/Default suite/methods-alphabetical.html
+github/test-output/testng-results.xml
+github/test-output/jquery-1.7.1.min.js
+github/test-output/old/index.html
+github/test-output/testng-reports.js
+github/test-output/testng.css
